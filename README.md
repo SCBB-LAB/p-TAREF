@@ -53,9 +53,7 @@ Use >ATXXXXXX format for any query
 Please put "AT" followed by some accession number to create imaginary ID to fit the format requirement: for example if the accession id is ">Os01g04550" change it to something like ">AT01g04550"
 OR you can create any imaginery ID with >ATXXX format to meet the input requirement.
 
-5.Performance
 
-p-TAREF perform better then any other software for plant miRNA prediction for details please visit "http://scbb.ihbt.res.in/p-taref/performance1.html"
 
 
 For query, bugs or information please contact ravish@ihbt.res.in or sg927357@gmail.com or log on to scbb.ihbt.res.in
