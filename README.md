@@ -15,6 +15,7 @@ p-TAREF: A fast and accurate tool to Refine plant microRNA Target Prediction
 4. RNAhybrid (# sudo apt-get install rnahybrid -y for Ubuntu users)
 5. libSVM (# sudo apt-get install libsvm* -y for Ubuntu users)
 6. Java
+7. python2 (recommended)
 
 2.Installing:
 
