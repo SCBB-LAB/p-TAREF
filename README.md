@@ -9,11 +9,11 @@ p-TAREF: A fast and accurate tool to Refine plant microRNA Target Prediction
 
 1.System requirement:
 
-1. Linux O.S. (Ubuntu)
+1. Linux O.S. (recommending Ubuntu)
 2. Vienna RNA package (#Download from here: https://www.tbi.univie.ac.at/RNA/download/sourcecode/2_5_x/ViennaRNA-2.5.0.tar.gz)
-3. EMBOSS (# sudo apt-get install emboss -y)
-4. RNAhybrid (# sudo apt-get install rnahybrid -y)
-5. libSVM (# sudo apt-get install libsvm* -y)
+3. EMBOSS (# sudo apt-get install emboss -y for Ubuntu users)
+4. RNAhybrid (# sudo apt-get install rnahybrid -y for Ubuntu users)
+5. libSVM (# sudo apt-get install libsvm* -y for Ubuntu users)
 6. Java
 
 2.Installing:
