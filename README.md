@@ -25,7 +25,7 @@ Extract p-TAREF on your local system and migrate to extracted directory.
 3.p-TAREF execution:
 
  To run p-TAREF from command line: 
- Please refer to the "run_script" file for better understanding of parameter as well as how to execute the program.
+ Please refer to the "run_script" file for better understanding of parameters as well as for the execution of program.
 
  
  sh run.sh #to execute the program
