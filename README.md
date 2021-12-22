@@ -43,7 +43,7 @@ Extract p-TAREF on your local system and migrate to extracted directory.
 
 
 Note: Sequence should be in fasta format followed by TAIR ID.
-Note: Sequences can be in multiple line or in single line.
+ Sequences can be in multiple line or in single line.
 
 >AT1G02860.1
 ATGTTCCCAAAACAAACGTTTTGACTTTTTTTTTGTTTTCTCATATTCTTTTATTTCACAACTTGTTATTTCCGCCGACTTCACCAGTCACCACCACCTT
