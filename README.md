@@ -9,12 +9,15 @@ please visit http://scbb.ihbt.res.in/
 2.Installation
 3.p-TAREF execution
 4.File formats
-5.Performance
 
 
 1.System requirement:
 
-Linux O.S. 
+Linux O.S. (Ubuntu)
+Vienna RNA package
+EMBOSS (# sudo apt-get install emboss -y)
+RNAhybrid (# sudo apt-get install rnahybrid -y)
+libSVM (# sudo apt-get install libsvm* -y)
 
 2.Installing:
 
