@@ -24,7 +24,7 @@ Extract p-TAREF on your local system migrate to Dependencies directory and as ro
 3.p-TAREF execution:
 
  To run p-TAREF from command line: 
- perl run.pl <mRNA file> <energy cutoff> <mismatch allowed> <kernel "p" for polynomial kernel, "g" for gaussian kernel and "l" for linear kernel> <result folder> <all> <number of processors>
+sh run.sh <mRNA file> <energy cutoff> <mismatch allowed> <kernel "p" for polynomial kernel, "g" for gaussian kernel and "l" for linear kernel> <result folder> <all> <number of processors>
  
  
  <mRNA file>    mRNA sequence(s) in FASTA format.
