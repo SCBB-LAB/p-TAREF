@@ -13,11 +13,11 @@ please visit http://scbb.ihbt.res.in/
 
 1.System requirement:
 
-Linux O.S. (Ubuntu)
-Vienna RNA package
-EMBOSS (# sudo apt-get install emboss -y)
-RNAhybrid (# sudo apt-get install rnahybrid -y)
-libSVM (# sudo apt-get install libsvm* -y)
+1. Linux O.S. (Ubuntu)
+2. Vienna RNA package
+3. EMBOSS (# sudo apt-get install emboss -y)
+4. RNAhybrid (# sudo apt-get install rnahybrid -y)
+5. libSVM (# sudo apt-get install libsvm* -y)
 
 2.Installing:
 
