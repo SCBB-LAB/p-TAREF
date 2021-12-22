@@ -59,3 +59,5 @@ p-TAREF perform better then any other software for plant miRNA prediction for de
 
 
 For query, bugs or information please contact ravish@ihbt.res.in or sg927357@gmail.com or log on to scbb.ihbt.res.in
+  
+Cite this article: Jha, A., Shankar, R. Employing machine learning for reliable miRNA target identification in plants. BMC Genomics 12, 636 (2011). https://doi.org/10.1186/1471-2164-12-636
