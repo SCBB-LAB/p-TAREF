@@ -18,7 +18,7 @@ p-TAREF: A fast and accurate tool to Refine plant microRNA Target Prediction
 
 2.Installing:
 
-Extract p-TAREF on your local system migrate to Dependencies directory.
+Extract p-TAREF on your local system migrate to extracted directory.
 
 
 3.p-TAREF execution:
