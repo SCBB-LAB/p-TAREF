@@ -58,4 +58,4 @@ OR you can create any imaginery ID with >ATXXX format to meet the input requirem
 
 For query, bugs or information please contact ravish@ihbt.res.in or sg927357@gmail.com or log on to scbb.ihbt.res.in
   
-Cite this article: Jha, A., Shankar, R. Employing machine learning for reliable miRNA target identification in plants. BMC Genomics 12, 636 (2011). https://doi.org/10.1186/1471-2164-12-636
+Citation: Jha, A., Shankar, R. Employing machine learning for reliable miRNA target identification in plants. BMC Genomics 12, 636 (2011). https://doi.org/10.1186/1471-2164-12-636
