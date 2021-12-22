@@ -22,7 +22,7 @@ please visit http://scbb.ihbt.res.in/
 
 2.Installing:
 
-Extract p-TAREF on your local system migrate to Dependencies directory and as root execute ./install toinstall all dependencies required by p-TAREF.
+Extract p-TAREF on your local system migrate to Dependencies directory.
 
 
 3.p-TAREF execution:
