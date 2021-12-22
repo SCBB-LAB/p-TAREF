@@ -14,7 +14,7 @@ please visit http://scbb.ihbt.res.in/
 1.System requirement:
 
 1. Linux O.S. (Ubuntu)
-2. Vienna RNA package
+2. Vienna RNA package (#Download from here: https://www.tbi.univie.ac.at/RNA/download/sourcecode/2_5_x/ViennaRNA-2.5.0.tar.gz)
 3. EMBOSS (# sudo apt-get install emboss -y)
 4. RNAhybrid (# sudo apt-get install rnahybrid -y)
 5. libSVM (# sudo apt-get install libsvm* -y)
