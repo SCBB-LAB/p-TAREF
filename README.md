@@ -25,9 +25,10 @@ Extract p-TAREF on your local system and migrate to extracted directory.
 3.p-TAREF execution:
 
  To run p-TAREF from command line: 
-sh run.sh <mRNA file> <energy cutoff> <mismatch allowed> <kernel "p" for polynomial kernel, "g" for gaussian kernel and "l" for linear kernel> <result folder> <all> <number of processors>
+ Please refer to the "run_script" file for better understanding of parameter as well as how to execute the program.
+
  
- 
+ sh run.sh #to execute the program
  <mRNA file>    mRNA sequence(s) in FASTA format.
  <energy cutoff>	minimum free energy of miRNA-target duplex
  <mismatch allowed>	maximum mismatch allowed
