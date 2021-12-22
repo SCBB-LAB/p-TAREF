@@ -1,6 +1,5 @@
 p-TAREF: A fast and accurate tool to Refine plant microRNA Target Prediction
 
-please visit http://scbb.ihbt.res.in/ 
 
 1.System Requirement
 2.Installation
